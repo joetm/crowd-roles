@@ -1,0 +1,5 @@
+{
+    "require": {
+        "endyjasmi/cuid": "^2.0"
+    }
+}

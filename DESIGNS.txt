@@ -1,0 +1,12 @@
+1  -  paperclip:NR+R+RI
+2  -  paperclip:NR+RI+R
+3  -  paperclip:R+NR+RI
+4  -  paperclip:R+RI+NR
+5  -  paperclip:RI+NR+R
+6  -  paperclip:RI+R+NR
+7  -  brick:NR+R+RI
+8  -  brick:NR+RI+R
+9  -  brick:R+NR+RI
+10 -  brick:R+RI+NR
+11 -  brick:RI+NR+R
+12 -  brick:RI+R+NR

@@ -1,0 +1,8 @@
+{
+  "name": "cc-survey",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:joetm/ccpaper.git",
+  "author": "Jonas O.",
+  "license": "MIT"
+}
