@@ -1,13 +1,13 @@
-CCPSST - CC Paper Study Survey Tool
-===================================
+Crowd Roles - Study Survey Tool
+===============================
 
 deploy to server:
-`fab deploy`
+`fab deploy` (not available in this repo)
 
-Make sure that ENV/.env contains the variables:
+Make sure that ENV/.env contains the necessary database variables:
 > # server config
 > SERVERNAME="..."
 > SERVERUSER="..."
-> # mysql config - for info only (not really needed on the client side)
+> # mysql config
 > USERNAME="..."
 > PASSWORD="..."
